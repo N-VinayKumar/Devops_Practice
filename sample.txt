@@ -1,3 +1,0 @@
-hi people this is a simple text file which is created.
-
-this file is modified
